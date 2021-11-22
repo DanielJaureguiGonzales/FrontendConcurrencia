@@ -1,0 +1,42 @@
+section{
+  height:100%;
+  margin:0;
+  border:0;
+  padding:0;
+}
+.left{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  height : 100%;
+  min-height: 100vh;
+}
+.right{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  height : 100%;
+  min-height: 100vh;
+}
+@media (max-width: 1200px) {
+  .left{
+    height:50%
+  }
+  .right{
+    height:50%
+  }
+}
+
+.caja{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  height : 100%;
+  margin: 40px;
+}
+
+.contenedor{
+  height: 50%;
+  width: 50%;
+  
+}

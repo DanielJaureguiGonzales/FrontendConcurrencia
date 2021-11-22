@@ -1,0 +1,203 @@
+{    "empresas":[
+     {
+       "id": 1,
+       "Empresa": "EMPRESA DE TRANSPORTES APOCALIPSIS S.A."
+     },
+     {
+       "id": 2,
+       "Empresa": "TRANSPORTES Y TURISMO INTERNACIONAL CARLITOS S.A.C."
+     },
+     {
+       "id": 3,
+       "Empresa": "INTERNACIONAL CHALLENGERS S.A.C."
+     },
+     {
+       "id": 4,
+       "Empresa": "TRANSPORTES LINEA S.A."
+     },
+     {
+       "id": 5,
+       "Empresa": "EMPRESA DE TRANSPORTES PERU BUS S.A."
+     },
+     {
+       "id": 6,
+       "Empresa": "EMPE TRANSP SALAZAR EIRL ETRANSA"
+     },
+     {
+       "id": 7,
+       "Empresa": "EMPRESA DE TRANSPORTES GUTARRA S.A."
+     },
+     {
+       "id": 8,
+       "Empresa": "TRANSPORTES ANITA E.I.R.L."
+     },
+     {
+       "id": 9,
+       "Empresa": "EXPRESO POWER E.I.R.L."
+     },
+     {
+       "id": 10,
+       "Empresa": "EXPRESO ANTEZANA HNOS. S.A."
+     },
+     {
+       "id": 11,
+       "Empresa": "EMPRESA DE TRANSPORTES JOSE HUAPAYA SORIANO S.A."
+     },
+     {
+       "id": 12,
+       "Empresa": "TRANSPORTE WARI S.A.C."
+     },
+     {
+       "id": 13,
+       "Empresa": "TRANSPORTES Y TURISMO REYNA S.R.L."
+     },
+     {
+       "id": 14,
+       "Empresa": "EMPRESA DE TRANSPORTES TICLLAS S.A.C. - E.T.T.I.C.S.A.C."
+     },
+     {
+       "id": 15,
+       "Empresa": "EMPRESA DE TRANSPORTES INTERPROVINCIAL DE PASAJEROS JULI BUSS SOCIEDAD ANONIMA CERRADA"
+     },
+     {
+       "id": 16,
+       "Empresa": "EMPRESA DE TRANSPORTES EL SOL S.A."
+     },
+     {
+       "id": 17,
+       "Empresa": "EMPRESA DE TRANSPORTES RONCO PERU S.A.C."
+     },
+     {
+       "id": 18,
+       "Empresa": "TRANSPORTES CROMOTEX S.A.C."
+     },
+     {
+       "id": 19,
+       "Empresa": "TRANSMAR EXPRESS SAC"
+     },
+     {
+       "id": 20,
+       "Empresa": "EMPRESA DE TRANSPORTES GRUPO HORNA S.A.C."
+     },
+     {
+       "id": 21,
+       "Empresa": "ANDORI�A TOURS S.R.L"
+     },
+     {
+       "id": 22,
+       "Empresa": "EMPRESA DE TRANSPORTES EXPRESO INTERNACIONAL PALOMINO S.A.C."
+     },
+     {
+       "id": 23,
+       "Empresa": "MOVIL TOURS S.A."
+     },
+     {
+       "id": 24,
+       "Empresa": "TRANSPORTES MERCEDES S.R.L."
+     },
+     {
+       "id": 25,
+       "Empresa": "EMPRESA DE TRANSPORTES EXPRESO NACIONAL CERRO DE PASCO S.R.LTDA."
+     },
+     {
+       "id": 26,
+       "Empresa": "EMPRESA DE TRANSPORTES AVE FENIX S.A.C."
+     },
+     {
+       "id": 27,
+       "Empresa": "EXPRESO SANCHEZ S.R.L."
+     },
+     {
+       "id": 28,
+       "Empresa": "PLUMA BUS S.R.L."
+     },
+     {
+       "id": 29,
+       "Empresa": "TRANSPORTES MENDO EIRL"
+     },
+     {
+       "id": 30,
+       "Empresa": "CORPORACION CHASKIS INDUSTRIA COMERCIO Y SERVICIOS S.A.C."
+     },
+     {
+       "id": 31,
+       "Empresa": "EMPRESA DE TRANSPORTES FLORES HERMANOS S.C.R.LTDA."
+     },
+     {
+       "id": 32,
+       "Empresa": "TOURS ANGEL DIVINO S.A.C."
+     },
+     {
+       "id": 33,
+       "Empresa": "ASESORES Y CONSULTORES VIA SEGURA S.A.C."
+     },
+     {
+       "id": 34,
+       "Empresa": "EXPRESO INTERNACIONAL MOLINA S.A.C."
+     },
+     {
+       "id": 35,
+       "Empresa": "EXPRESO TURISMO ANDINO S.A."
+     },
+     {
+       "id": 36,
+       "Empresa": "EMPRESA DE TRANSPORTES EXPRESO ROMATISA E.I.R.L."
+     },
+     {
+       "id": 37,
+       "Empresa": "EMPRESA DE TRANSPORTES HEROES DEL PACIFICO S.R.L."
+     },
+     {
+       "id": 38,
+       "Empresa": "EXPRESO LOS CHANKAS S.R.L."
+     },
+     {
+       "id": 39,
+       "Empresa": "EMPRESA TURISMO ATAHUALPA SERVICIOS GENERALES S.C.R.L."
+     },
+     {
+       "id": 40,
+       "Empresa": "EXPRESO MOLINA UNION S.A.C."
+     },
+     {
+       "id": 41,
+       "Empresa": "TORRES ASOCIADOS S.R.L."
+     },
+     {
+       "id": 42,
+       "Empresa": "EMPRESA DE TRANSPORTES DE PASAJEROS Y CARGA CAVASSA S.A.C."
+     },
+     {
+       "id": 43,
+       "Empresa": "SHALOM EXPRESS S.A.C."
+     },
+     {
+       "id": 44,
+       "Empresa": "ALLINBUS S.A.C."
+     },
+     {
+       "id": 45,
+       "Empresa": "EMPRESA DE TRANSPORTES KALE S.A.C."
+     },
+     {
+       "id": 46,
+       "Empresa": "EMPRESA DE TRANSPORTES Y TURISMO JUDITH E.I.R.L."
+     },
+     {
+       "id": 47,
+       "Empresa": "TRANSANI S.R.L."
+     },
+     {
+       "id": 48,
+       "Empresa": "AMERICA EXPRESS S.A."
+     },
+     {
+       "id": 49,
+       "Empresa": "EMPRESA DE TRANSPORTES Y REPRESENTACIONES TURISMO CENTRAL S.A."
+     },
+     {
+       "id": 50,
+       "Empresa": "EMPRESA DE TRANSPORTES TSP E.I.R.L."
+     }
+    ]
+}

@@ -1,0 +1,48 @@
+.up{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  height : 80%;
+  min-height: 10vh;
+}
+
+.down{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  height : 100%;
+  min-height: 50vh;
+}
+
+.caja{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  height : 100%;
+  margin: 40px;
+}
+
+.caja1{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+  height : 10%;
+  margin-top: 40px;
+  margin-bottom: -100px;
+}
+
+.tabla{
+  margin: 0;
+  padding: 0;
+}
+
+
+.my-custom-scrollbar {
+  position: relative;
+  height: 100%;
+  overflow: auto;
+  }
+
+.table-wrapper-scroll-y {
+display: block;
+}
